@@ -1,5 +1,3 @@
-# app-dev
-# app-dev
 # My Favorite Series
 ## Love Alarm  
 **Love Alarm** is a *Korean series* about a mobile app that rings when someone within **10 meters** likes you.  
