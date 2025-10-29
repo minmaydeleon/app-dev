@@ -26,18 +26,16 @@ It shows how technology affects love and emotions.
 
 ---
 
-### Fun Fact {#fun-fact}  
+### Fun Fact 
 The app in *Love Alarm* was inspired by the idea of **real-time emotion detection** — similar to how some **AI or IoT apps** work today.  
-This is an example of a **highlighted fact**: ==Technology changes how we love==.
-
 ---
 
 ### Love Alarm Stats Table 
 | Character     | Popularity | Role           |
-| ------------- | ---------- | -------------- |
-| Kim Jojo      | ★★★★★     | Protagonist    |
-| Hwang Sun-oh  | ★★★★☆     | Love Interest  |
-| Lee Hye-young | ★★★★☆     | Best Friend    |
+| ------------- | ---------- | --------------|
+| Kim Jojo      | ★★★★★   | Protagonist    |
+| Hwang Sun-oh  | ★★★★★   | Love Interest  |
+| Lee Hye-young | ★★★★★   | Best Friend    |
 
 ---
 
@@ -51,7 +49,7 @@ This is an example of a **highlighted fact**: ==Technology changes how we love==
 - [x] Watch Season 2  
 - [x] Rewatch favorite episodes  
 - [x] Listen to the full OST 
-- [ ] Recommend to friends
+- [x] Recommend to friends
 
 ---
 
